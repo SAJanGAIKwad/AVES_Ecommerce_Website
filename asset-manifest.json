@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c01bd6e.css",
-    "main.js": "/static/js/main.9026adfb.js",
-    "static/media/logo.png": "/static/media/logo.9d67bda0e8919c029d6d.png",
-    "index.html": "/index.html",
-    "main.3c01bd6e.css.map": "/static/css/main.3c01bd6e.css.map",
-    "main.9026adfb.js.map": "/static/js/main.9026adfb.js.map"
+    "main.css": "/AVES_Ecommerce_Website/static/css/main.3c01bd6e.css",
+    "main.js": "/AVES_Ecommerce_Website/static/js/main.2e321d26.js",
+    "static/media/logo.png": "/AVES_Ecommerce_Website/static/media/logo.9d67bda0e8919c029d6d.png",
+    "index.html": "/AVES_Ecommerce_Website/index.html",
+    "main.3c01bd6e.css.map": "/AVES_Ecommerce_Website/static/css/main.3c01bd6e.css.map",
+    "main.2e321d26.js.map": "/AVES_Ecommerce_Website/static/js/main.2e321d26.js.map"
   },
   "entrypoints": [
     "static/css/main.3c01bd6e.css",
-    "static/js/main.9026adfb.js"
+    "static/js/main.2e321d26.js"
   ]
 }
