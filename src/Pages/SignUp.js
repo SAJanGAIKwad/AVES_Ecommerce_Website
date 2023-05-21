@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from "react-router-dom";
-import loginbg from '../Images/loginbg.png'
+import loginbackground from '../Images/loginbg.png'
 import { BiShow, BiHide} from 'react-icons/bi'
 
 const SignUp = () => {
@@ -18,7 +18,7 @@ const SignUp = () => {
             <div className='w-full max-w-sm bg-white m-auto flex-col p-4 rounded-2xl'>
                 {/* <h1 className='text-center text-2xl font-bold'>SignUp</h1> */}
                 <div className='w-20 overflow-hidden rounded-full drop-shadow-md shadow-md m-auto'>
-                    <img src={loginbg} className='w-full'/>
+                    <img src={loginbackground} alt='' className='w-full'/>
                 </div>
                 <form className='w-full py-3 flex flex-col'>
                     <label htmlFor='firstName'>First Name</label>
